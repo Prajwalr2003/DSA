@@ -1,0 +1,263 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"printArray"
+			],
+			[
+				"Ar",
+				"ArrayList"
+			],
+			[
+				"Stri",
+				"StringBuffer"
+			],
+			[
+				"de",
+				"dequeue"
+			],
+			[
+				"Ru",
+				"RuntimeException"
+			],
+			[
+				"ille",
+				"IllegalArgumentException"
+			],
+			[
+				"is",
+				"isEmpty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Install Package Control"
+			],
+			[
+				"",
+				"Build: New Build System"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"Snippet: lore",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 218.4,
+		"history":
+		[
+			"javac Solution.java && java Solution < input.in > output.in\njavac Solution.java && java Solution < input.in > output.in\njavac Solution.java && java Solution < input.in > output.in\njavac Solution.java && java Solution < input.in > output.in\njavac Solution.java && java Solution < input.in > output.in\njavac Solution.java && java Solution < input.in > output.in\njavac Solution.java && java Solution < input.in > output.in\njavac Solution.java && java Solution <input.in> output.in"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/prajwal/Desktop/DSA/Graph/output.txt",
+		"/C/Users/prajwal/Desktop/DSA/Graph/input.txt",
+		"/C/Users/prajwal/Desktop/DSA/Graph/Solution.java",
+		"/C/Users/prajwal/Desktop/CP/output.txt",
+		"/C/Users/prajwal/Desktop/CP/input.txt",
+		"/C/Users/prajwal/Desktop/CP/Solution.java",
+		"/C/Users/prajwal/Desktop/CP/CardBox.java",
+		"/C/Users/prajwal/Desktop/CP/FormattingSoftware.java",
+		"/C/Users/prajwal/Desktop/CP/FlightOptimization.java",
+		"/C/Users/prajwal/Desktop/CP/PythongCardBox.java",
+		"/C/Users/prajwal/Desktop/TCS/practice/output.txt",
+		"/C/Users/prajwal/Desktop/TCS/practice/input.txt",
+		"/C/Users/prajwal/Desktop/TCS/practice/Solution.java",
+		"/C/Users/prajwal/Desktop/CNS/output.txt",
+		"/C/Users/prajwal/Desktop/CNS/input.txt",
+		"/C/Users/prajwal/Desktop/CNS/PlayFairCipher.java",
+		"/C/Users/prajwal/Desktop/Practice Stack And Queue/output.txt",
+		"/C/Users/prajwal/Desktop/Practice Stack And Queue/input.txt",
+		"/C/Users/prajwal/Desktop/Practice Stack And Queue/Solution.java",
+		"/C/Users/prajwal/Desktop/TCS/practice/LongestCommonSubsequence.java",
+		"/C/Users/prajwal/Desktop/TCS/practice/LinkedList.java",
+		"/C/Users/prajwal/Desktop/CP/Math/output.txt",
+		"/C/Users/prajwal/Desktop/CP/Math/input.txt",
+		"/C/Users/prajwal/Desktop/CP/Math/Solution.java",
+		"/C/Users/prajwal/Desktop/Recursion/output.txt",
+		"/C/Users/prajwal/Desktop/Recursion/input.txt",
+		"/C/Users/prajwal/Desktop/Recursion/Recursion.java",
+		"/C/Users/prajwal/Desktop/Recursion/PermutationForString.java",
+		"/C/Users/prajwal/Desktop/Recursion/PermutationAnotherApproach.java",
+		"/C/Users/prajwal/Desktop/Recursion/Permutation.java",
+		"/C/Users/prajwal/Desktop/Recursion/PalindomePartitioning.java",
+		"/C/Users/prajwal/Desktop/Recursion/Sudoko.java",
+		"/C/Users/prajwal/Desktop/Recursion/NQueensOptimized.java",
+		"/C/Users/prajwal/Desktop/Recursion/NQueens.java",
+		"/C/Users/prajwal/Desktop/Recursion/SubsetSum.java",
+		"/C/Users/prajwal/Desktop/Recursion/Recursion.class",
+		"/C/Users/prajwal/Desktop/Recursion/UniqueCombinationSum.java",
+		"/C/Users/prajwal/Desktop/Recursion/CombinationSum.java",
+		"/C/Users/prajwal/AppData/Roaming/Sublime Text/Packages/User/Java.sublime-build",
+		"/C/Users/prajwal/AppData/Roaming/Sublime Text/Packages/User/JavaInputOutput.sublime-build",
+		"/C/Users/prajwal/Desktop/CP/output.in",
+		"/C/Users/prajwal/Desktop/CP/input.in",
+		"/C/Users/prajwal/Desktop/CP/outputf.in",
+		"/C/Users/prajwal/Desktop/CP/inputf.in",
+		"/C/Users/prajwal/AppData/Roaming/Sublime Text/Packages/User/Java",
+		"/C/Users/prajwal/AppData/Roaming/Sublime Text/Packages/User/JavaRunner",
+		"/C/Users/prajwal/AppData/Roaming/Sublime Text/Packages/User/java21",
+		"/C/Users/prajwal/Desktop/CP/java21"
+	],
+	"find":
+	{
+		"height": 38.4
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.4
+	},
+	"input":
+	{
+		"height": 213.6
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Java.sublime-build",
+	"project": "Solution.sublime-project",
+	"replace":
+	{
+		"height": 73.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 83.3333333333,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 549.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 185.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
